@@ -8,7 +8,7 @@ This repo is the [GitHub Pages](https://pages.github.com/) website, built in Jek
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/BlackPythonDevs/blackpythondevs.github.io)
 
-You can deploy your project locally but the fastest way to contribute is to use our [Codespace](<(https://github.com/features/codespaces/)https://github.com/features/codespaces/>).
+You can deploy your project locally but the fastest way to contribute is to use our [Codespace]((https://github.com/features/codespaces/)https://github.com/features/codespaces/).
 
 - Create an Issue (and wait to be assigned)
 - Fork the Code
@@ -17,5 +17,3 @@ You can deploy your project locally but the fastest way to contribute is to use 
 - Submit a PR
 
 🥳
-
-new updated version.
