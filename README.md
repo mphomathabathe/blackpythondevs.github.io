@@ -17,3 +17,5 @@ You can deploy your project locally but the fastest way to contribute is to use 
 - Submit a PR
 
 🥳
+
+new updated version.
